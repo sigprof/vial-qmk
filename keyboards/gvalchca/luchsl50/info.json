@@ -17,6 +17,9 @@
         "mousekey": true,
         "nkro": true
     },
+    "dynamic_keymap": {
+        "layer_count": 6
+    },
     "diode_direction": "COL2ROW",
     "matrix_pins": {
         "rows": ["D5", "D3", "F0", "E6"],
